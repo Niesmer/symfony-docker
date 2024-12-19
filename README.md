@@ -2,7 +2,7 @@
 
 This is a fork from a docker Symgony repo used to learn inside of one of my lesson
 
-##Original Readme
+## Original Readme
 
 # Symfony Docker
 
