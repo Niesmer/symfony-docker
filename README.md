@@ -1,3 +1,9 @@
+# Video game app to learn Symfony
+
+This is a fork from a docker Symgony repo used to learn inside of one of my lesson
+
+##Original Readme
+
 # Symfony Docker
 
 A [Docker](https://www.docker.com/)-based installer and runtime for the [Symfony](https://symfony.com) web framework,
